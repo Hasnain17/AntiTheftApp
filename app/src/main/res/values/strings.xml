@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Anti Theft App</string>
+    <string name="_charger_detection">Charger Detection</string>
+    <string name="_motion_detection">Motion Detection</string>
+    <string name="_pocket_removal">Pocket Removal</string>
+    <string name="_motion_detection_status">Status:</string>
+    <string name="_charger_removal_detection_status">Status:</string>
+    <string name="_pocket_removal_detection_status">Status:</string>
+    <string name="_running"> Running</string>
+    <string name="_not_running">Stopped</string>
+    <string name="_Dev">Task For FunPrime\n Muhammad Hasnain Altaf</string>
+
+
+</resources>
